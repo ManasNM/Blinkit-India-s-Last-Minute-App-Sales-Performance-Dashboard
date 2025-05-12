@@ -16,7 +16,7 @@ MS Excel	Initial data inspection & cleanup
 SQL (optional)	Querying, filtering, or joining data
 
 Dataset Overview
-A total of 11 files were used:
+This project utilizes a dataset sourced from Kaggle that simulates Blinkit’s operations. A total of 11 files were used:
 
 blinkit_customers.csv
 blinkit_orders.csv
